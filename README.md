@@ -15,3 +15,8 @@ Thirteen language speakers re-annotated WordSim353 word pairs in accordance with
 ## Wolaytta 1000-wolaytta analogy dataset:
 
 [Wolaytta analogy Dataset](https://github.com/TewodrosAbebe/Computational-Semantic-/blob/master/Analogy-Datasets.txt)
+
+
+# Code with evaluation
+
+[Wolaytta Word Embedding](https://github.com/TewodrosAbebe/Computational-Semantic-/blob/master/Wolaytta_Word_Embedding.ipynb)

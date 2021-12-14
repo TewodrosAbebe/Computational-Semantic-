@@ -20,3 +20,5 @@ Thirteen language speakers re-annotated WordSim353 word pairs in accordance with
 # Code with evaluation
 
 [Wolaytta Word Embedding](https://github.com/TewodrosAbebe/Computational-Semantic-/blob/master/Wolaytta_Word_Embedding.ipynb)
+
+https://www.overleaf.com/project/61b36129a48e46292d910e0b
